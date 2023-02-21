@@ -18,6 +18,13 @@ module.exports = {
       fontFamily: {
         sans: ["Inter var", ...defaultTheme.fontFamily.sans],
       },
+      boxShadow: {
+        "3xl": "0 0 13px rgba(0, 0, 0, 0.3)",
+        // "3xl": "0 5px 15px 0 rgb(0 0 0 / 8%)",
+      },
+      backgroundImage: {
+        "desktop-hero": "url('/public/assets/images/header-background.jpg')",
+      },
     },
   },
   plugins: [require("prettier-plugin-tailwindcss")],
