@@ -1,6 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 body {
-  height: 110rem;
+  height: 120rem;
+}
+
+.card-travel:hover img {
+  scale: 1.3;
 }

@@ -15,6 +15,9 @@ module.exports = {
           "2xl": "6rem",
         },
       },
+      colors: {
+        "dark-scy": "#051334",
+      },
       fontFamily: {
         sans: ["Inter var", ...defaultTheme.fontFamily.sans],
       },
