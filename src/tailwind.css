@@ -7,7 +7,7 @@
 }
 
 .bg-tourism {
-  @apply after:absolute after:top-0 after:-z-20 after:h-[33rem]
+  @apply after:absolute after:top-0 after:-z-20 after:h-[30rem]
    after:w-full after:bg-dark-scy after:text-white after:content-['']
     after:md:h-[33.5rem] after:md:pt-36;
 }
