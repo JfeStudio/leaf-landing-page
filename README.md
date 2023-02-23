@@ -4,7 +4,7 @@ Leaf Landing Page with Tailwind
 
 ## Hero Section
 
-Preview 
+Preview
 
 ![leaf](/public/preview/preview-1.png)
 
@@ -22,4 +22,4 @@ npm install && npm run dev
 
 ## Redesign by
 
-[Maman Ganteng 😎](https://github.com/JfeStudio).
+[Maman Ganteng 😎](https://github.com/JfeStudio)

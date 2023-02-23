@@ -15,3 +15,6 @@ body {
    after:w-full after:bg-dark-scy after:text-white after:content-['']
     after:md:h-[33.5rem] after:md:pt-36;
 }
+/* .hero-pattern {
+  background-image: url("../assets/images/header-background.jpg") !important;
+} */
