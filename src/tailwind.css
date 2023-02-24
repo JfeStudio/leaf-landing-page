@@ -7,9 +7,14 @@
 }
 
 .bg-tourism {
-  @apply after:absolute after:top-0 after:-z-20 after:h-[30rem]
-   after:w-full after:bg-dark-scy after:text-white after:content-['']
+  @apply after:absolute after:top-0 after:right-0 after:left-0
+   after:-z-20 after:h-[30rem] after:bg-dark-scy after:text-white after:content-['']
     after:md:h-[33.5rem] after:md:pt-36;
+}
+.main-content {
+  @apply after:absolute after:top-0 after:right-0 after:left-0
+   after:-z-20 after:h-[30rem] after:bg-blue-500/10 after:text-white after:content-['']
+    after:md:h-[20.5rem];
 }
 
 .hero-pattern {
