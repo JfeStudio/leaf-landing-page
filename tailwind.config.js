@@ -19,7 +19,7 @@ module.exports = {
         "dark-scy": "#051334",
       },
       fontFamily: {
-        sans: ["Inter var", ...defaultTheme.fontFamily.sans],
+        // sans: ["Inter var", ...defaultTheme.fontFamily.sans],
       },
       boxShadow: {
         "3xl": "0 0 13px rgba(0, 0, 0, 0.3)",
